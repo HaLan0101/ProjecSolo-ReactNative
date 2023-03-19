@@ -79,7 +79,7 @@ const Cart = () => {
   }
   const payment = async () => { 
   try {
-    const response = await axios.post('http://192.168.1.92:8080/pay', { totalPrice }, {
+    const response = await axios.post('http://YOUR_ADRESSE_IPV4:8080/pay', { totalPrice }, {
       headers: {
         'Content-Type': 'application/json',
       },

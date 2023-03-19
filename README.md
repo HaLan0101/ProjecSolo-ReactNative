@@ -2,6 +2,8 @@ Nom : DANG Ngoc Ha Lan
 
 # Client-side
 
+Dans src/screens/cart.js : Remplacez l'url par votre adresse IPV4 pour connecter avec le backend localhost
+
 ```bash
 npm install
 npx react-native start --reset-cache
