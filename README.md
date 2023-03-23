@@ -29,4 +29,4 @@ npm run dev
 
 # Demo
 
-https://i.imgur.com/CRIULaA.gif
+https://i.imgur.com/j993bTLm.jpg
